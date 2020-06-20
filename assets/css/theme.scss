@@ -21,7 +21,7 @@ $enable-rounded: false;
 // general
 body, input, button, select, optgroup, textarea {
     font-family: 'Athiti', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 body {
     line-height:1.7;
@@ -398,6 +398,7 @@ img, img:hover {
 
 // blog
 .article-post, .entry-header, .comments, .rating, .authorbox {
+    font-size: 20px;
     max-width: 740px;
     padding-left: 20px;
     padding-right: 20px;
