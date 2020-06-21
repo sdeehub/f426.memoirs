@@ -19,7 +19,7 @@ rating: 4.5
 
 > I was just to touch base with you.
 
-![A view from here](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1588325827/IMG_20200501_163350.jpg)
+![A view from here](https://res.cloudinary.com/sdees-reallife/image/upload/v1588325827/IMG_20200501_163350.jpg)
 
 นอกจากอากาศร้อนแล้วมีอะไร? อยู่บ้านก็สบายใจ สบายตัว เพราะเป็นบ้านของเราเอง - นั่นสิ คำนี้ก็น่าคิด และให้ต้องขอบคุณทุกๆ คนที่ทำให้บ้านน่าอยู่ และอยู่สบายด้วยกันทุกๆ คน นอกจากคุยงานแล้วก็มีถามถึงสถานการณ์ คำศัพท์ที่ได้ยินบ่อย พูดถึงกันบ่อยก็ประมาณนี้
 

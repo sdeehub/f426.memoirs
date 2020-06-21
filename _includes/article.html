@@ -2,7 +2,10 @@
 ================================================== -->
 <div class="article-post">
     {% if page.beforetoc %}
-    <p><em>{{page.beforetoc}}</em></p>
+    <p>
+        <span class="smoothscroll badge badge-primary text-capitalize">Fig:</span>
+        <em>{{page.beforetoc}}</em>
+    </p>
     {% endif %}
     <!-- Toc if any -->
     {% if page.toc %}
