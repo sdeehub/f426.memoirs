@@ -3,7 +3,7 @@ layout: post
 title: "อยู่ไหน?"
 author: sal
 categories: [ STORYLOG ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1590764087/IMG_1994.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1590764087/IMG_1994.jpg"
 beforetoc: "นั่นสิ! อยู่ไหน? - ว่าแต่ใครนะ ที่ถามหา?"
 toc: false
 ---

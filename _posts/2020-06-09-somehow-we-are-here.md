@@ -3,7 +3,7 @@ layout: post
 title: "Sunday's Write"
 author: sal
 categories: [ Lifestyle ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1569159407/IMG_9083.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1569159407/IMG_9083.jpg"
 beforetoc: "Sunday morning ... I remember you so well!"
 toc: false
 ---

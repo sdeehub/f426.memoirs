@@ -3,7 +3,7 @@ layout: post
 title:  "อยู่บ้าน ปรับตัว เปลี่ยนใจ มีชีวิต(ใหม่)"
 author: john
 categories: [ Lifestyle ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/h_554,w_474,c_fill/v1590073462/IMG_20170619_103449_248.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1590073462/IMG_20170619_103449_248.jpg"
 beforetoc: "อยู่บ้านให้คุ้มค่า ใช้เวลากับตัวเอง กับครอบครัว กับคนที่เรารัก กับคนที่รักเรา อย่างมีความสุข อย่างมีคุณภาพ"
 toc: false
 ---
