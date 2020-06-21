@@ -3,7 +3,7 @@ layout: post
 title: "เช้าวันใหม่ อีกวัน"
 author: sal
 categories: [ Lifestyle ]
-image: "/assets/images/IMG_2388.jpg"
+image: "/assets/images/1.jpg"
 beforetoc: "ดอกไม้บานในเช้าวันใหม่ วันที่ดอกไม้สวยไม่ใช่แค่ที่จำปาศักดิ์ หรือชื่อว่าจำปาลาว"
 toc: false
 rating: 4.5
