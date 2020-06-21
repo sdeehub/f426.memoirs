@@ -3,7 +3,7 @@ layout: post
 title: "Sunday's Write"
 author: sal
 categories: [ STORYLOG ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1592736518/1477662626073.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592736518/1477662626073.jpg"
 beforetoc: "Sunday morning ... I remember you so well!"
 ---
 

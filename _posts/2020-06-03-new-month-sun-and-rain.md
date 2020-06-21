@@ -3,7 +3,7 @@ layout: post
 title: "วัน-เดือนใหม่"
 author: sal
 categories: [ Lifestyle ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1591543513/1591141864991.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1591543513/1591141864991.jpg"
 beforetoc: "แบ่งเวลา หาเวลา ตื่นเช้าอีกหน่อย ให้มีเวลา เพื่อสร้างความฝัน เพื่อทำสิ่งที่ตั้งใจ เพื่อวันนี้และวันต่อ ๆ ไปของเรา"
 ---
 

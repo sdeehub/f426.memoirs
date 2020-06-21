@@ -3,7 +3,7 @@ layout: post
 title: "หลับตาคิด ลืมตาฝัน"
 author: john
 categories: [ Lifestyle ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1587829943/2016-10-16_12.55.19_1.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1587829943/2016-10-16_12.55.19_1.jpg"
 beforetoc: "ว่างเปล่า หรือยังไม่กล้าที่จะให้อะไร ๆ ว่างเปล่า"
 ---
 
