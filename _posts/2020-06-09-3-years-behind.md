@@ -5,7 +5,6 @@ author: sal
 categories: [ Lifestyle ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1583659451/IMG_1088.jpg"
 beforetoc: "เวลาผ่านไป ชีวิตผ่านไปด้วยเหมือนกัน ในระหว่างทางโบกมือให้กับใครบ้าง"
-toc: false
 ---
 
 คุณ คือ ใคร(1)?\

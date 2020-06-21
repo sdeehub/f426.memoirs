@@ -5,7 +5,6 @@ author: sal
 categories: [ STORYLOG ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1590764087/IMG_1994.jpg"
 beforetoc: "นั่นสิ! อยู่ไหน? - ว่าแต่ใครนะ ที่ถามหา?"
-toc: false
 ---
 
 >1 : ในเมืองใหญ่ • อยู่ไหนน่ะ • คิดถึงจัง

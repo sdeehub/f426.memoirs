@@ -3,9 +3,8 @@ layout: post
 title: "Sunday's Write"
 author: sal
 categories: [ STORYLOG ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1569159407/IMG_9083.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1592736518/1477662626073.jpg"
 beforetoc: "Sunday morning ... I remember you so well!"
-toc: true
 ---
 
 I know you probably thinking this is kind of weird. After all these years of saying: "Hi my name is Odd." And your response that would goes like: "Hi, you Odd? I think you are totally fine. Actually I think you are kind of cute." Yeah right! And that smirky smile kind of response that would have changed me forever.
