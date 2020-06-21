@@ -4,7 +4,7 @@ title:  "ยังทำงานจากที่บ้าน"
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
-image: "https://res.cloudinary.com/sdees-reallife/image/upload/v1592736591/IMG_20200621_111006.jpg"
+image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592736591/IMG_20200621_111006.jpg"
 rating: 4.5
 ---
 ทำงานจากที่บ้านตั้งแต่วันที่ 23 มีค. คือกลับบ้านมาเมื่อวันศุกร์ที่ 21 เป็นปกติ เสาร์อยู่บ้าน อาทิตย์ก็กำลังเตรียมจะกลับไปทำงาน แต่พอค่ำๆ ก็ตกลงว่าใช้ Work from home น่าจะปลอดภัยและเป็นเรื่องที่ควรจะทำ ก็นั่นล่ะ ผ่านมาถึงตอนนี้ก็ยังทำงานจากที่บ้านกันต่อไป
