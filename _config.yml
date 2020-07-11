@@ -27,7 +27,13 @@ authors:
     display_name: FIT
     avatar: 'assets/images/wellness.png'
     web: https://www.flaticon.com/authors/becris
-    description: "Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+#  fit:
+#    name: Fit
+#    display_name: FIT
+#    avatar: 'assets/images/wellness.png'
+#    web: https://www.flaticon.com/authors/becris
+#    description: "Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
   fun:
     name: Fun
     display_name: Fun
