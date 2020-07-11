@@ -15,7 +15,7 @@ email: odd.daboss@gmail.com
 # Authors
 authors:
   fit:
-    name: Fit
+    #name: Fit
     display_name: FIT
     avatar: 'assets/images/wellness.png'
     web: https://www.flaticon.com/authors/becris
