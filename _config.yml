@@ -27,25 +27,25 @@ authors:
     display_name: FIT
     avatar: 'assets/images/wellness.png'
     web: https://www.flaticon.com/authors/becris
-    description: "Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
+    description: 'Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   fun:
     name: Fun
     display_name: Fun
     avatar: 'assets/images/wave.png'
     web: https://www.flaticon.com/authors/smashicons
-    description: "Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
+    description: 'Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   calm:
     name: Calm
     display_name: Calm
     avatar: 'assets/images/calm.png'
     web: http://www.freepik.com
-    description: "Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
+    description: 'Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   cool:
     name: Cool
     display_name: COOL
     avatar: 'assets/images/fun.png'
     web: https://www.flaticon.com/authors/freepik
-    description: "Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
+    description: 'Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   john:
     name: John
     display_name: John
