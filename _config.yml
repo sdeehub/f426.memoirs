@@ -24,13 +24,13 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   fit:
     name: Fit
-    display_name: FIT
+    display_name: FiiT
     avatar: 'assets/images/wellness.png'
     web: https://www.flaticon.com/authors/becris
     description: 'Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   fun:
     name: Fun
-    display_name: Fun
+    display_name: 'fUn.FuN'
     avatar: 'assets/images/wave.png'
     web: https://www.flaticon.com/authors/smashicons
     description: 'Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
@@ -42,7 +42,7 @@ authors:
     description: 'Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
   cool:
     name: Cool
-    display_name: COOL
+    display_name: 'CO.OL'
     avatar: 'assets/images/fun.png'
     web: https://www.flaticon.com/authors/freepik
     description: 'Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
