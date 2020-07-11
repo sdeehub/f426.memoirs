@@ -15,36 +15,28 @@ email: odd.daboss@gmail.com
 # Authors
 authors:
   fit:
-    name: fit
+    name: Fit
     display_name: FIT
     avatar: 'assets/images/wellness.png'
-    email:
     web: https://www.flaticon.com/authors/becris
-    twitter:
     description: "Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
   fun:
-    name: fun
+    name: Fun
     display_name: Fun
     avatar: 'assets/images/wave.png'
-    email:
     web: https://www.flaticon.com/authors/smashicons
-    twitter:
     description: "Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
   calm:
-    name: calm
+    name: Calm
     display_name: Calm
     avatar: 'assets/images/calm.png'
-    email:
     web: http://www.freepik.com/
-    twitter:
     description: "Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
   cool:
-    name: cool
+    name: Cool
     display_name: COOL
     avatar: 'assets/images/fun.png'
-    email:
     web: https://www.flaticon.com/authors/freepik
-    twitter:
     description: "Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>"
   john:
     name: John
