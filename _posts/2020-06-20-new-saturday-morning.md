@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "เช้าวันใหม่ อีกวัน"
-author: sal
+author: fun
 categories: [ Lifestyle ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592583917/IMG_2388.jpg"
 beforetoc: "ดอกไม้บานในเช้าวันใหม่ วันที่ดอกไม้สวยไม่ใช่แค่ที่จำปาศักดิ์ หรือชื่อว่าจำปาลาว"

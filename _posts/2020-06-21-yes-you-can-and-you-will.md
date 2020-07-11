@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yes! You Can."
-author: sal
+author: cool
 categories: [ Lifestyle ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592736521/IMG_20161116_180738719.jpg"
 beforetoc: "ความจริง • ความเชื่อ • ความฝัน • การกระทำ • ความสำเร็จ"

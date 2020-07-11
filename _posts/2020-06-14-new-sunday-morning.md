@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "เช้าวันใหม่"
-author: sal
+author: fit
 categories: [ Lifestyle ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592736522/IMG_20170330_160328527.jpg"
 beforetoc: "ถ้ามีชีวิตใหม่ในทุกลมหายใจ ก็เหมือนมีชีวิตอยู่ตลอดเวลา หรือเอาเป็นว่าในทุก ๆ วันใหม่"
