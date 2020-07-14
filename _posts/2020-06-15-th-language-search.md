@@ -2,7 +2,7 @@
 layout: post
 title:  "ยังทำงานจากที่บ้าน"
 author: cool
-categories: [ Lifestyle ]
+categories: [ WFH ]
 tags: [ France ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1592736591/IMG_20200621_111006.jpg"
 rating: 4.5

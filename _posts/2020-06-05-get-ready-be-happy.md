@@ -2,7 +2,7 @@
 layout: post
 title: "ตั้งใจให้ดี"
 author: fit
-categories: [ Lifestyle ]
+categories: [ Mindful ]
 image: "https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_900,w_1350/v1590073470/IMG_20170626_072442_081.jpg"
 ---
 
